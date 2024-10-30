@@ -20,6 +20,7 @@ Connection parameters:
  - Parity: none
  - Stop bits: 1
  - Flow control: XON/XOFF
+   
 ---
 
 Unfortunately, I wasn't able to change anything in configuration since it required logging in and I wasn't provided with the password by the seller.
