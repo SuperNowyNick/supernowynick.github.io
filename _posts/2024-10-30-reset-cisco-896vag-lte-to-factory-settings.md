@@ -26,6 +26,15 @@ Connection parameters:
 Unfortunately, I wasn't able to change anything in configuration since it required logging in and I wasn't provided with the password by the seller.
 Moreover, I could see the following terminal output which didn't increase my chances of getting grasp of it:
 ```
+System Bootstrap, Version 15.4(3r)M1, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 2014 by cisco Systems, Inc.
+
+Total memory size = 1024 MB
+C896VAG-LTE-GA-K9 platform with 1048576 Kbytes of main memory
+Main memory is configured to 32 bit mode 
+
+Readonly ROMMON initialized
 PASSWORD RECOVERY FUNCTIONALITY IS DISABLED
 ```
 
